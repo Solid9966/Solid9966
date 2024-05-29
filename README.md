@@ -1,5 +1,6 @@
 <div align ="center">
-
+  
+<!--
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHub!!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Technology and Stack
@@ -13,6 +14,11 @@
 
 ## 📨 Contact
 - Email : tjddnjs612@gmail.com
+-->
+<br>
+<br>
+<br>
+
 </div>
 
 <!--
