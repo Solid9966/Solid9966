@@ -1,9 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHube)](https://git.io/typing-svg)
-## 👨‍💻 기술 및 스택
-- <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-- <img src="https://img.shields.io/badge/Build-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-- <img src="https://img.shields.io/badge/LM & DM-%23121011?style=for-the-badge">
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHube!!)](https://git.io/typing-svg)
+
+## 👨‍💻 Technology and Stack
+- <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+- <img src="https://img.shields.io/badge/LM & DM-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 
 <!--
 **Solid9966/Solid9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
