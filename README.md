@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHube)](https://git.io/typing-svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Solid9966=anuraghazra&layout=compact)
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
 <!--
