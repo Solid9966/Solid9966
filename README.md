@@ -1,10 +1,8 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+Githube;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **Solid9966/Solid9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+Githube;Second+line+of+text)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
