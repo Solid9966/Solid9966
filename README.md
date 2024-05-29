@@ -1,3 +1,5 @@
+<div align ="center">
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHub!!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Technology and Stack
@@ -11,6 +13,7 @@
 
 ## 📨 Contact
 - Email : tjddnjs612@gmail.com
+</div>
 
 <!--
 **Solid9966/Solid9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
