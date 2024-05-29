@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHube)](https://git.io/typing-svg)
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-#02569B.svg?style=for-the-badge&logo=Flutter&logoColor=02569B" />
 
 
 <!--
