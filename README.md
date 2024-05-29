@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHube!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Solid9966+GitHub!!)](https://git.io/typing-svg)
 
 ## 👨‍💻 Technology and Stack
 - <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
