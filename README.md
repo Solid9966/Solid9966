@@ -1,4 +1,4 @@
-  
+<div align="center">  
 ### <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome%20Solid%20GitHub!!&fontSize=70" />
 
 ## 👨‍💻 Tech and Stack
@@ -12,6 +12,7 @@
 
 ## 📨 Contact
 Email : tjddnjs612@gmail.com
+</div>
 
 
 
