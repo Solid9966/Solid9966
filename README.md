@@ -20,7 +20,6 @@ Email : tjddnjs612@gmail.com
 
 ## 📌Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solid9966&layout=compact&exclude_repo=example-repo&theme=dark)
-![Solid9966's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solid9966&show_icons=true&theme=dark)
 </div>
 
 
